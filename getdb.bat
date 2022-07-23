@@ -1,0 +1,1 @@
+@sqlcipher-3.0.1\bin\sqlcipher-shell64-debug.exe %1 < decrypt.txt

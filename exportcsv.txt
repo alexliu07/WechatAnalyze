@@ -1,0 +1,5 @@
+.headers on
+.mode csv
+.output output/message.csv
+SELECT * FROM message;
+.output stdout
